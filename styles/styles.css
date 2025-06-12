@@ -13,3 +13,8 @@
         b,i{
             border : 1px dashed red
         }
+
+         meter{
+            width: 50%;
+            height: 50px;
+        }
